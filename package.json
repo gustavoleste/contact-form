@@ -1,0 +1,16 @@
+{
+  "name": "contact-form",
+  "version": "1.0.0",
+  "description": "simple contact form",
+  "main": "index.js",
+  "repository": "https://github.com/gustavoleste/contact-form.git",
+  "author": "Gustavo Leste <gustavoleste@protonmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
